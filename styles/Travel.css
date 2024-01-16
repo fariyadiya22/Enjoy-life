@@ -138,3 +138,65 @@ border-radius: 16px;
 .gray{
     color: #5A5A5D;
 }
+.size{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+border: 0px;
+background-color: rgba(19, 19, 24, 0.05);
+
+}
+.subscribe{
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    border: 0px
+}
+.gap{
+    border: 1px solid #FF5400;
+width: 400px;
+height: 400px;
+padding: 20px;
+margin: 20px;
+}
+.offer{
+    background: #FF5400;
+    width: 280px;
+height: 100px;
+padding: 40px;
+transform: rotate(-19.628deg);
+border-radius: 16px;
+color: #fff;
+font-size: 1.5em;
+position: absolute;
+bottom: 100px;
+right: 30px;
+}
+.nav-offer{
+    background-image: url('../images/Rectangle\ 8\ \(1\)\ \(1\).png');
+    background-repeat: no-repeat;
+    width: 672px;
+height: 422px;
+margin: 15px;
+}
+.nav-gap{
+ display: flex;
+ gap: 20px;
+position: relative;
+}
+.bold{
+    font-size: 2em;
+}
+.nav-name{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.footer{
+    text-align: center;
+    background-color: rgba(19, 19, 24, 0.05);
+    width: 1000px;
+height: 500px;
+padding: 200px;
+gap: 50px;
+}
