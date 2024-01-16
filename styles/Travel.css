@@ -17,6 +17,7 @@ div li{
     font-size: 18px;
 font-style: normal;
 font-weight: 400;
+
 }
 div li a{
     text-decoration: none;
@@ -55,4 +56,26 @@ div li a{
 button{
     color: #fff;
     background-color: #FF5400;
+}
+
+.main{
+    display: flex;
+    margin-top: 70px;
+    margin-right: 25px;
+    gap: 50px;
+   
+}
+.black{
+    color: black;
+    font-size: 2em;
+}
+.class{
+    color:  rgba(19, 19, 24, 0.70);
+}
+.orenge{
+    color: #fff;
+    border: 0;
+    padding: 20px;
+    width: 200px;
+    border-radius: 8px;
 }
