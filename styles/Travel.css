@@ -59,6 +59,7 @@ div li a {
     width: 170px;
     border-radius: 8px;
     border: 0px;
+    
 }
 
 button {
@@ -200,3 +201,13 @@ height: 500px;
 padding: 200px;
 gap: 50px;
 }
+
+@media screen and (max-width: 600px) {
+    .header{
+        flex-direction: column;
+    }
+    .space{
+        flex-direction: column;
+    }
+    
+} 
