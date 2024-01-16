@@ -1,0 +1,58 @@
+.div-text{
+    display: flex;
+    gap: 15px;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+div > ul{
+    display: flex;
+}
+div li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+div li a{
+    text-decoration: none;
+    color: #424247;
+}
+.color{
+    color: #FF5400;
+}
+
+.text{
+    font-size: 3em;
+    
+
+}
+.banner{
+    color: #fff;
+    background-image: url('../images/Group\ 13\ \(1\)\ \(1\).png');
+    width: 1170px;
+    height: 450px;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 50px;
+}
+.bg-clr{
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.30);
+    height: 50px;
+    padding: 50px;
+}
+.space{
+    padding: 20px;
+    width: 170px;
+    border-radius: 8px;
+    border: 0px;
+}
+button{
+    color: #fff;
+    background-color: #FF5400;
+}
