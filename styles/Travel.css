@@ -1,38 +1,43 @@
-.div-text{
+.div-text {
     display: flex;
     gap: 15px;
-    
+
 }
 
-.header{
+.header {
     display: flex;
     justify-content: space-between;
 }
-div > ul{
+
+div>ul {
     display: flex;
 }
-div li{
+
+div li {
     list-style: none;
     margin-right: 30px;
     font-size: 18px;
-font-style: normal;
-font-weight: 400;
+    font-style: normal;
+    font-weight: 400;
 
 }
-div li a{
+
+div li a {
     text-decoration: none;
     color: #424247;
 }
-.color{
+
+.color {
     color: #FF5400;
 }
 
-.text{
+.text {
     font-size: 3em;
-    
+
 
 }
-.banner{
+
+.banner {
     color: #fff;
     background-image: url('../images/Group\ 13\ \(1\)\ \(1\).png');
     width: 1170px;
@@ -41,41 +46,61 @@ div li a{
     border-radius: 16px;
     padding-top: 50px;
 }
-.bg-clr{
+
+.bg-clr {
     border-radius: 8px;
     background-color: rgba(255, 255, 255, 0.30);
     height: 50px;
     padding: 50px;
 }
-.space{
+
+.space {
     padding: 20px;
     width: 170px;
     border-radius: 8px;
     border: 0px;
 }
-button{
+
+button {
     color: #fff;
     background-color: #FF5400;
 }
 
-.main{
+.main {
     display: flex;
     margin-top: 70px;
     margin-right: 25px;
     gap: 50px;
-   
+
 }
-.black{
+
+.black {
     color: black;
     font-size: 2em;
 }
-.class{
-    color:  rgba(19, 19, 24, 0.70);
+
+.class {
+    color: rgba(19, 19, 24, 0.70);
 }
-.orenge{
+
+.orenge {
     color: #fff;
     border: 0;
     padding: 20px;
     width: 200px;
     border-radius: 8px;
+}
+
+.center {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.picture {
+    display: flex;
+    gap: 20px;
+    width: 573px;
+    height: 300px;
+    padding-bottom: 20px;
+    padding-top: 50px;
 }
